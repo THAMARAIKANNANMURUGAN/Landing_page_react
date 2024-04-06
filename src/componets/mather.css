@@ -1,0 +1,55 @@
+.image{
+    position:absolute;
+    height:75%;
+    width:100%;
+    border:none;
+    margin:0;
+    padding: 0;
+}
+.headebody{
+    position: relative;
+   display: flex;
+   flex-wrap: wrap;
+
+}
+.body{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:100px;
+    flex-wrap: wrap;
+}
+.ele{
+    position: relative;
+    display: flex;
+    flex-direction:column;
+    padding:30px;
+    flex-wrap: wrap;
+   
+}
+
+.button{
+    margin-left:80px;
+}
+
+h1{
+    color:white;
+    font-size:50px;
+}
+
+.co-2{
+    margin-top:30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.input_data{
+     width:500px;
+    margin-left:20px; 
+}
+.co-1{
+margin-top:10px;
+margin-right:100px;
+flex-wrap: wrap;
+}

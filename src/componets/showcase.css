@@ -1,0 +1,20 @@
+.image_box{
+    background-size: cover;
+    background-position:center;
+    height:500px;
+    width:759px;
+    margin: auto;
+    flex-wrap: wrap;
+  
+}
+.showcase{
+    margin-top:100px;
+}
+
+#tex_contain{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:50px;
+   
+}

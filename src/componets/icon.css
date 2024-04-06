@@ -1,0 +1,20 @@
+#cont{
+    margin-top:114px;
+    margin-left:0;
+    margin-right:0;
+    
+}
+#main{
+display: flex;
+margin: auto;
+justify-content: space-around;
+padding: 9px;
+
+}
+#co{
+    display:flex;
+    align-content: space-around;
+
+
+
+}
